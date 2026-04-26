@@ -29,8 +29,8 @@ def kodland():
     '<h2>kodland é util</h2>'
     '<h3>kodland é dahora</h3>'
     '<h4>kodland é legal</h4>'
-
-app.run(debug=True)
     '<h5>kodland é curso do sucesso</h5>'
     '<h5>kodland muda vidas</h5>'
-    '<h6>kodland nao é só uma escola com varios cursos, kodland É UMA ESCOLA COM VARIOS CURSOS</h6>'
+    return'<h6>kodland nao é só uma escola com varios cursos, kodland É UMA ESCOLA COM VARIOS CURSOS</h6>'
+
+app.run(debug=True)
